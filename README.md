@@ -17,5 +17,6 @@ You can use this file if you wish to explore, modify, or run the program using P
 The .spec file containsall the required dependencies for the program and must not be deleted.
 
 ----------Modifying the Code----------
+
 If you wish to make changes, open InfiniteReactor.py in a Python editor (e.g., Spyder, VSCode).
 Ensure all dependencies (pyautogui, pynput, win32gui, etc.) are installed before running.
