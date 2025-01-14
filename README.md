@@ -5,8 +5,8 @@ It was specifically created to assist with the Reaction Time Test on the Human B
 
 ----------Folder Structure----------
 
-1. dist
-Contains the compiled version of the program: InfiniteReactor.exe.
+1. InfiniteReactor.exe
+The compiled version of the cheat/hack.
 This is the standalone executable file that you can run directly without requiring Python or additional setup.
 
 2. Source Code
